@@ -9,10 +9,10 @@
 @import 'styles/clients';
 @import 'styles/contact';
 
-body {}
-.wrapper {}
+// body {}
+// .wrapper {}
 .container {
-    width: 1170px;
+    max-width: 1170px;
     margin: 0 auto;
     border: 1px solid #000;
 } 
