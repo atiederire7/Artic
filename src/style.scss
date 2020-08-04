@@ -11,4 +11,8 @@
 
 body {}
 .wrapper {}
-.container {}
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    border: 1px solid #000;
+} 
